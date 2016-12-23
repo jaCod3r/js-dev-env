@@ -1,11 +1,20 @@
 import express from 'express';
 import path from 'path';
 import open from 'open';
+import webpack from 'webpack';
+import config from '../webpack.config.dev';
 
 const port = 8000;
 
 //creates instance
 const app = express();
+
+const compiler = webpack(config);
+
+app.use(require('webpack-dev-middleware')(compiler, {
+  noInfo: true,
+  publicPath: config.output.publicPath
+}));
 
 //which routes to handle
 app.get('/', function (req, res){
