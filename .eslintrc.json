@@ -1,16 +1,16 @@
 {
   "root": true,
   "extends": [
-    "eslint: recommended", //eslint recommended rules
-    "plugin: import/errors",
-    "plugin: import/warnings"
+    "eslint:recommended", //eslint recommended rules
+    "plugin:import/errors",
+    "plugin:import/warnings"
   ],
   "parserOptions": {
     "ecmaVersion": 7, //javascript version 7
     "sourceType": "module"
   },
   "env": {
-    "broswer": true,
+    "browser": true,
     "node":true,
     "mocha": true
   },
