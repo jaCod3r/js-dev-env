@@ -3,29 +3,22 @@
 # js-dev-env
 ## JavaScript Development Environment 
 
-1. Editor and Configuration
-   a. IDE - Visual Studio Code
-   b. EditorConfig 
+1. Editor and Configuration 
+   * IDE - Visual Studio Code
+   * EditorConfig
 
-2. Package Managment 
-   a. NPM
-
+2. Package Managment
+   * NPM
 3. Development Web Server
-   a. Node.js
-
+   * Node.js
 4. Automation
-   a. NPM Scripts
-   
+   * NPM Scripts
+
 5. Transpiling
-   a. Babel
-
+   * Babel
 6. Bundling 
-
 7. Linting 
-
 8. Automation 
-   a. Travis CI (Linux/Mac)
-   b. AppVeyor (Windows)
-
+   * Travis CI (Linux/Mac)
+   * AppVeyor (Windows)
 9.  
-
