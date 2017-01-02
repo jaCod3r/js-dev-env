@@ -6,8 +6,10 @@
 1. Editor and Configuration 
    * IDE - Visual Studio Code
    * EditorConfig
+
 2. Package Managment
    * NPM
+   
 3. Development Web Server
    * Node.js
 4. Automation
