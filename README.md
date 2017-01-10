@@ -7,11 +7,11 @@
   (a) IDE - Visual Studio Code </br>
   (b) EditorConfig</br></br>
 2. Package Managment </br>
-   (a) NPM</br>
+   (a) NPM</br></br>
 3. Development Web Server</br>
    (a) Node.js </br></br>
 4. Automation</br>
-   (a) NPM Scripts</br>
+   (a) NPM Scripts</br></br>
 5. Transpiling </br>
    (a) Babel</br></br>
 6. Bundling </br></br>
