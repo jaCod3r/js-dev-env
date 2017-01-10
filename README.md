@@ -3,12 +3,12 @@
 # js-dev-env
 ## JavaScript Development Environment 
 
-1. Editor and Configuration 
-   * IDE - Visual Studio Code
-   * EditorConfig
+1. Editor and Configuration </br>
+  (a) IDE - Visual Studio Code </br>
+  (b) EditorConfig</br>
 
-2. Package Managment
-   * NPM
+2. Package Managment </br>
+   (a) NPM</br>
    
 3. Development Web Server
    * Node.js
