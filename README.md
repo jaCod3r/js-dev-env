@@ -6,19 +6,17 @@
 1. Editor and Configuration </br>
   (a) IDE - Visual Studio Code </br>
   (b) EditorConfig</br>
-
 2. Package Managment </br>
    (a) NPM</br>
-   
-3. Development Web Server
-   * Node.js
-4. Automation
-   * NPM Scripts
-5. Transpiling
-   * Babel
-6. Bundling 
-7. Linting 
-8. Automation 
-   * Travis CI (Linux/Mac)
-   * AppVeyor (Windows)
+3. Development Web Server</br>
+   (a) Node.js </br>
+4. Automation</br>
+   (a) NPM Scripts
+5. Transpiling </br>
+   (a) Babel</br>
+6. Bundling </br>
+7. Linting </br>
+8. Automation </br>
+   (a) Travis CI (Linux/Mac)
+   (b) AppVeyor (Windows)
 9.  
